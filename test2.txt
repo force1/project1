@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is B066-3428
+
+ Directory of C:\Users\rock\Desktop\project1
+
+03/09/2018  08:17 PM    <DIR>          .
+03/09/2018  08:17 PM    <DIR>          ..
+03/09/2018  08:07 PM               355 test1.txt
+03/09/2018  08:17 PM                 0 test2.txt
+               2 File(s)            355 bytes
+               2 Dir(s)  208,453,451,776 bytes free
